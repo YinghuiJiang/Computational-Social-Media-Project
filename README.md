@@ -1,1 +1,1 @@
-# Computational-Social-Meida-Project
+# Computational-Social-Media-Project
