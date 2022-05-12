@@ -1,1 +1,1 @@
-# Computational-Social-Meida-Project
+# DH500 - Computational-Social-Media-Project
