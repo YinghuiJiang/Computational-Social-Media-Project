@@ -1,0 +1,482 @@
+,tweet,textblob_polarity,textblob_subjectivity,nltk,vader
+0,EUR/USD pushed through the 1.3240 resistance zone and stretched to a fresh daily high of 1.3252,0.22999999999999998,0.52,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}"
+1,EUR/USD pushed through the 1.3240 resistance zone and stretched to a fresh daily high of 1.3252,0.22999999999999998,0.52,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}"
+2,EUR/USD pushed through the 1.3240 resistance zone and stretched to a fresh daily high of 1.3252,0.22999999999999998,0.52,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}"
+3,"I'm long the JPY from start of this week against AUD, USD, NZD, EUR and CAD. LT positions so small overall. Alot of potiential, no signs yet",-0.15,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+4,"@sushilkedia @7Rajan8 sir, GBP and EUR generally moves in the same direction against the USD. &amp; EUR is just not breaking down",0.07500000000000001,0.45,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+5,"The last days for Eur/usd being above level 1.3200.
+bye and see at 1.0000 soon!",0.0,0.06666666666666667,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+6,"$KIWI advances across the board, intraday gains +1.43% against $USD, +1.25% against $AUD, +.81% against $JPY and +1.24% against $EUR",0.0,0.0,"{'neg': 0.0, 'neu': 0.591, 'pos': 0.409, 'compound': 0.8225}","{'neg': 0.0, 'neu': 0.591, 'pos': 0.409, 'compound': 0.8225}"
+7,The entire EUR/USD dip from this morning...totally erased and than some.,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+8,"@alaidiPremiumFX if I go with EUR/GBP my portfolio wouldn't be changed;
+Cause == long EUR/GBP short EUR/USD and LONG GBP/USD (1 BUY 1 SHORT)",-0.025,0.35000000000000003,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+9,EUR/USD gunned for stops below 1.3200 but couldn't find any traction and has rebounded to 1.3225.,0.0,0.0,"{'neg': 0.397, 'neu': 0.603, 'pos': 0.0, 'compound': -0.5574}","{'neg': 0.397, 'neu': 0.603, 'pos': 0.0, 'compound': -0.5574}"
+10,GBP already rallied a touch to GBP/EUR 1.1639 (mid) and 1.5376 GBP/USD. EUR/USD 1.3208. Will GDP do anything?...only if it is down...,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+11,GBP already rallied a touch to GBP/EUR 1.1639 (mid) and 1.5376 GBP/USD. EUR/USD 1.3208. Will GDP do anything?...only if it is down...,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+12,"$USD 82.17 -0.10, Minus is good for $OIL, Metals llke $GLD and $SLV, &amp; Stocks, it shud help EUR.USD relationship this morning, $/YEN is -.37",0.3,0.35000000000000003,"{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.6808}","{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.6808}"
+13,#EURUSD $EURUSD Every rising is a selling opportunity for EUR cos of next week FOMC and ECB. Next 5 months USD will get strongest period +,0.0,0.0,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4404}"
+14,ZAR downtrend interrupted by positive US figures and improved Euro sentiment USD / ZAR  9.7641 GBP / ZAR  14.9913 EUR / ZAR  12.9003,0.0,0.0,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.34}","{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.34}"
+15,"NZD, JPY and GBP are the strongest performers  so far today, while USD and AUD are weaker and CHF and EUR are mixed ^",0.1,1.0,"{'neg': 0.173, 'neu': 0.655, 'pos': 0.173, 'compound': 0.0}","{'neg': 0.173, 'neu': 0.655, 'pos': 0.173, 'compound': 0.0}"
+16,"#FX: NZD, JPY and GBP are the strongest performers  so far today, while USD and AUD are weaker and CHF and EUR are mixed ^KB",0.1,1.0,"{'neg': 0.173, 'neu': 0.655, 'pos': 0.173, 'compound': 0.0}","{'neg': 0.173, 'neu': 0.655, 'pos': 0.173, 'compound': 0.0}"
+17,Today on news : German Ifo Business Climate(#EUR) and Unemployment Claims (#USD),0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+18,"News to trade today: Preliminary Gross Domestic Product (QoQ) (GBP), German Ifo Business Climate (EUR) and Unemployment Claims (USD)....",0.0,0.0,"{'neg': 0.162, 'neu': 0.838, 'pos': 0.0, 'compound': -0.4767}","{'neg': 0.162, 'neu': 0.838, 'pos': 0.0, 'compound': -0.4767}"
+19,@JonU235 look what happened to spy at 2:30am. EUR knocked out the USD down to 82.04 - SPY hit 169.98 find a cheap call option and play smart,0.30714285714285716,0.6714285714285715,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.6249}","{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.6249}"
+20,"Initiated long EUR/AUD as well shorts NZD/USD , AUD/USD. Ill take a couple early shots here and see what sticks...as Asia should be a hoot",-0.18333333333333335,0.5666666666666667,"{'neg': 0.148, 'neu': 0.741, 'pos': 0.111, 'compound': -0.1779}","{'neg': 0.148, 'neu': 0.741, 'pos': 0.111, 'compound': -0.1779}"
+21,"#EUR/USD: Daily chart resistance is notable on the SP High for May 1st @ 1.3243, and intraday Market Flow has turned bearish from there. #fx",0.16,0.5399999999999999,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+22,What a BEAUTIFUL day!! The USD is @ 1.0454; EUR is @ 1.40848 and GBP is @ 1.6218. Call or drop by today!!,0.0,0.0,"{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2732}"
+23,Good Morning!! Today the uSD is @ 1.0454; EUR @ 1.40848 and GBP is @ 1.6218. Call today for any quote 1 877 237 4340 #waterloo,0.7,0.6000000000000001,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}"
+24,"the US dollar needs to fall.  $SPY &amp; $SPX is running neck and neck with the $DAX  For this market to go up, the USD /DX has to fall vs EUR",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+25,"closed EUR, GBP, AUD, NZD, CHF and CAD longs against the USD from Monday morning (minus AUD, all positive). Keeping USD/JPY short",-0.05000000000000001,0.26666666666666666,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+26,I am adding to my long EUR/AUD and NZD exposure. I will also be cutting most of my USD shorts today at some point,-0.025,0.35,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}"
+27,1.32 a real key level in eur/usd today. An hourly hold and close below put bears in control.,0.0,1.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+28,#CURRENCIES After a long discussion KSG MARKETS Research &amp; Trading team has agreed that EUR/USD move upward is false and are expecting a...,-0.05,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+29,"... between. Eco Frech, German + EUR Flash Mfg. already out and positive strengthened EUR. USD 9 am Flash Mfg. PMI, 10 am New Home Sales.",0.06818181818181818,0.22727272727272727,"{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.3182}"
+30,"EUR/USD and GBP/USD trading higher on stronger French, German PMI",0.08333333333333333,0.16666666666666666,"{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}","{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}"
+31,"our target area in EUR/USD @1,3240/50 was hit and now the overall structure from 1,3067 or 1,3095 looks vulnerable to a downside correction",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+32,"#FX: EUR, USD, GBP are stronger, while Aussie and Kiwi continue to lose traction as we wait for key Eurozone data ^KB",0.0,1.0,"{'neg': 0.166, 'neu': 0.675, 'pos': 0.16, 'compound': -0.0258}","{'neg': 0.166, 'neu': 0.675, 'pos': 0.16, 'compound': -0.0258}"
+33,#EUR/USD made new one month high on recent better than expected news about German and French,0.13272727272727272,0.2907575757575757,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}"
+34,"24.7.13 (Recomendation EUR/USD: BUY 1.3195   , SELL ---- ,stop loss 1.3130 and target 1.3250-1.3290",0.0,0.0,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}","{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}"
+35,"SPOT GOLD US$1,344.10 AUD/USD 92.97 AUD/EUR 70.33 AUD/GBP 60.46 All Ords up 34.5 and is @ 5039.1 The Gold index is doing really well :-)",0.0,0.0,"{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.2732}","{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.2732}"
+36,GOOD MORNING! Another tight range bound in Asian session. It looks like $EUR $GBP $USD awaits London and Europe open later. #FX #traders,0.10428571428571427,0.27714285714285714,"{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.7003}","{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.7003}"
+37,#EUR / #USD  at 1.3245 is the focus midweek. Fail a daily close above it and the downside exit will be fast and furious to 1.3155.,-0.15,0.44999999999999996,"{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.802}","{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.802}"
+38,"@sonaliranade I am ahead $DAX and EUR/USD for DAY, not worry, unless $DOW craps, $IBM holding MKT ++, now up +21, I'll make $$ trade too.^^",-0.65,0.9,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.6597}","{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.6597}"
+39,waiting eur/usd and gbp/usd to fall over 200 points,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+40,"@marketsgain I was able to trade 2 out of the alerts u send,Gbp/Jpy lost and Eur/Usd won. What about update for software users?",0.0,0.0,"{'neg': 0.2, 'neu': 0.609, 'pos': 0.191, 'compound': -0.0258}","{'neg': 0.2, 'neu': 0.609, 'pos': 0.191, 'compound': -0.0258}"
+41,EUR/USD 1- and 2-wk ATM Spreads Suggest Volatility Ahead: Citi,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+42,@JohnnyfromDonny We're offering special rates on EUR and USD today for our prepaid cards and Fairpay transfers. €1.143 &amp; US$1.5060 for £1!,0.35714285714285715,0.5714285714285714,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.4019}"
+43,"USD could strengthen against G10 with EUR/USD at 1.25 by year-end, and 1.22 for end of 2014.",0.0,0.0,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}"
+44,"#FX: USD is lower yet again, while GBP, JPY  and EUR are mixed so far. The bets performers are the SEK and NZD, AUD is  modestly higher^KB",0.1,0.95,"{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}"
+45,Greenback pains and Sterling gains! Local unit struggling to hold on to it's advances; USD / ZAR 9.8071 GBP / ZAR 15.0480 EUR / ZAR 12.9326,0.0,0.0,"{'neg': 0.145, 'neu': 0.705, 'pos': 0.15, 'compound': 0.0258}","{'neg': 0.145, 'neu': 0.705, 'pos': 0.15, 'compound': 0.0258}"
+46,"$NZD, $JPY and $AUD winning so far. Majors against USD: NZD +0.41%, AUD +0.27%, JPY +0.27%, EUR +0.11%, CAD +0.10%, CHF +0.09%, GBP +0.08%.""",0.32083333333333336,0.6333333333333333,"{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5859}","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5859}"
+47,"$NZD, $JPY and $AUD winning so far. Majors against USD: NZD +0.41%, AUD +0.27%, JPY +0.27%, EUR +0.11%, CAD +0.10%, CHF +0.09%, GBP +0.08%.",0.32083333333333336,0.6333333333333333,"{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5859}","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5859}"
+48,"$NZD, $JPY and $AUD winning so far. Majors against USD: NZD +0.41%, AUD +0.27%, JPY +0.27%, EUR +0.11%, CAD +0.10%, CHF +0.09%, GBP +0.08%.",0.32083333333333336,0.6333333333333333,"{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5859}","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.5859}"
+49,Right now there is a signal to buy EUR/USD at 1.3192 with stop loss at 1.3172 and profit taking at 1.3232.Profit will be adjusted later.,0.14285714285714285,0.26785714285714285,"{'neg': 0.259, 'neu': 0.575, 'pos': 0.167, 'compound': -0.1531}","{'neg': 0.259, 'neu': 0.575, 'pos': 0.167, 'compound': -0.1531}"
+50,"Hello friends. I am starting posting trading signals with exact points of entry, stop, and profit taking for the EUR/USD, USD/JPY. EUR/JPY.",0.25,0.25,"{'neg': 0.108, 'neu': 0.591, 'pos': 0.3, 'compound': 0.5994}","{'neg': 0.108, 'neu': 0.591, 'pos': 0.3, 'compound': 0.5994}"
+51,"Both GBP/USD and the EUR/USD closed for profit of more than $2,000.
+there is still room to move higher. but i was execute my trading plan.",0.25,0.5,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}"
+52,nibbling the short side of the USD and adding should the EUR/USD scale the 1.3200 level,0.0,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+53,"GBP slowly but surely gaining ground vs USD and EUR. I still like it, although I'd prefer not to have Carney at the helm of the BoE",0.5,0.8888888888888888,"{'neg': 0.0, 'neu': 0.573, 'pos': 0.427, 'compound': 0.802}","{'neg': 0.0, 'neu': 0.573, 'pos': 0.427, 'compound': 0.802}"
+54,Dennis Gartman has become a buyer of #gold again (though in EUR and in JPY). Gold in USD breaking out to the upside on back of weaker USD,0.0,0.0,"{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}"
+55,Once this drops I will lead you into 'scaled-in' shorts on EUR/USD - so you can sell a little at a time with a better and better stop loss,0.3333333333333333,0.43333333333333335,"{'neg': 0.34, 'neu': 0.361, 'pos': 0.299, 'compound': 0.0516}","{'neg': 0.34, 'neu': 0.361, 'pos': 0.299, 'compound': 0.0516}"
+56,"USD/JPY
+Options: 99.00 and 100.00, 101.00
+
+EUR/GBP
+Options: 0.8800
+
+GBP/USD
+Options: 1.5100
+
+EUR/USD
+Options: 1.3000/50
+
+AUD/USD
+Opti...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+57,"With USD/JPY -0.56 and EUR/USD +0.0007
+1.3148
+
+The trade LONG EUR/USD is an automatic right now,
+
+BET EUR/USD UP stop 1.3133, target 1.3194.",0.11785714285714285,0.46785714285714286,"{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}"
+58,"Over all, EUR/USD has honoured set ST/MT trading range of 1.2750/1.2850-1.34/1.35; down from 1.34 to 1.2750 and now into 1.34???",0.0,0.0,"{'neg': 0.0, 'neu': 0.709, 'pos': 0.291, 'compound': 0.5719}","{'neg': 0.0, 'neu': 0.709, 'pos': 0.291, 'compound': 0.5719}"
+59,EUR/USD steady in morning as usual.. We can buy near 1.3150 with 10 pip sl and 25 pip target,-0.075,0.325,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+60,"Now: 1 Eur = 1.3150 usd and 1 oz Gold = 1315 usd.
+Future: 1 Eur = 1 usd and 1 oz Gold = 1000 usd.
+This is the trend now!",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+61,@Marwanhabibz @amr_alexandria @ceylanozbudak +and/or swtiching oil price from $USD to $EUR will be replaced by whom you know +,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+62,"$USD not open yet 82.62..
+
+BIAS on $USD shud be on DOWNSIDE with $oil, $gld, $slv, and EUR/USD and GBP/USD going up here.",0.0,0.5,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+63,Any view on stg/usd and eur/usd on Monday pls?,0.0,0.0,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}","{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}"
+64,"A strong day for GDX up 4.36% and GDXJ up 3.50% SPOT GOLD US$1,296.70 AUD/USD 91.72 AUD/EUR 69.79 AUD/GBP 60.08",0.4333333333333333,0.7333333333333333,"{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.5106}","{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.5106}"
+65,"It's Friday!!! We are selling USD @ 1.0574, EUR @ 1.4093, and GBP @ 1.6295! Call us for any quote on 519 763 7330! Have a great weekend!",0.8,0.75,"{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.6249}","{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.6249}"
+66,"Quick secret for you guys: EUR/USD : once price closes below 1.3108 on 15 min and then closes 'above' this same level, you can short with a",-0.022222222222222237,0.5,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+67,"$USD back to weak again $OIL, $GLD, and $SLV as discussed prior went UP, EUR/USD and POUND UP too.
+
+$DAX benefiting from UP $DOW, 8330 now.",-0.125,0.20833333333333334,"{'neg': 0.153, 'neu': 0.688, 'pos': 0.159, 'compound': 0.0258}","{'neg': 0.153, 'neu': 0.688, 'pos': 0.159, 'compound': 0.0258}"
+68,$USD best currency performer since 1/1/13 amongst g10 ccies. $JPY and $AUD worst performers with -13.6% and -11.7%. $EUR almost unch -.7%,0.0,0.65,"{'neg': 0.169, 'neu': 0.658, 'pos': 0.173, 'compound': 0.0258}","{'neg': 0.169, 'neu': 0.658, 'pos': 0.173, 'compound': 0.0258}"
+69,"$MAN.DE and US Fut on $DOW up a bit now, $DAX reacting to '''twins''' moves.
+
+$USD just got stronger, $/YEN up, pushing EUR/USD &amp; cable DOWN",0.0,0.0,"{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.3818}","{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.3818}"
+70,amazed by the correlation between the eur/usd and the usd/chf pairs.,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+71,"@petergo99037185 Enclosed points to weak $USD, this should help STOCKS, $OIL, $GLD, and $SLV, also EUR/USD &amp; GBP/USD, $DAX shud benefit too.",-0.375,0.625,"{'neg': 0.134, 'neu': 0.602, 'pos': 0.264, 'compound': 0.4215}","{'neg': 0.134, 'neu': 0.602, 'pos': 0.264, 'compound': 0.4215}"
+72,"EUR/USD
+Options: 1.2900 and 1.3000
+Offers: 1.3150/75-80 and 1.3200
+Bids: 1.3050/65-70 and 1.3100
+
+GBP/USD
+Options: 1.5000
+
+USD/JPY
+Op...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+73,Maybe Detroit should default leave the USA and USD &amp; set up a new currency !!..... LOL #EUR isn't that what our media friends tell us u do,0.4681818181818182,0.5772727272727273,"{'neg': 0.143, 'neu': 0.705, 'pos': 0.152, 'compound': 0.0444}","{'neg': 0.143, 'neu': 0.705, 'pos': 0.152, 'compound': 0.0444}"
+74,with that in mind look to EUR/USD holding Bernanke gap and grinding higher away from said gap.  Same can be said for Dimes.,0.25,0.5,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+75,Eur / Usd still my premise is buy above 13050 and first resistance 13250,0.25,0.3333333333333333,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+76,We closed the quarter with 280 million liras net profit. Our net income decrease driven by TL depreciation against USD and EUR.,0.0,0.0,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}"
+77,1.3070 support goes in eur.usd and we could see a fast move down...,0.2,0.6,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}"
+78,@mellocampello the math gave me #EurOz 1.760 Eur and #USDOz 2.778 USD. and the strangest thing is it gives me a #EURUSD of 1.58!! Amazing,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+79,With the trend now: gold price will be 1000 usd/oz and 1000 eur/oz. It means 1 eur = 1 usd.,-0.3125,0.6875,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+80,"closed out of all USD longs from 2 days ago. GBP, EUR, AUD, NZD, CAD and CHF. My only loss was in the GBP...everything else was ""a-okay"" :^)",-0.05,0.4,"{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.3182}","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.3182}"
+81,If we would consider the M3 in #USD and #EUR and #Gold. What would be the correct exchange rates between the 3 currencies? Any idea?,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+82,@jane_pople @MartinSLewis We selling today USD at 1.51 and EUR at 1.15 Best Rate on the Market! Find us at South Kensington GT Exchange,1.0,0.3,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}"
+83,"GBP/USD intraday: the pair and the RSI are supported by rising trend lines.
+EUR/USD: support around 1.309",0.0,0.0,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6597}","{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6597}"
+84,"No clear trends in FX at the moment, but post Bernanke the USD and EUR are stronger, GBP, CHF and CAD are mixed, JPY is mixed ^KB #FX",0.10000000000000002,0.3833333333333333,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.6369}","{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.6369}"
+85,"EUR/USD UPDATE: I have reanalysed and come to the conclusion that EU shorted at 1.3151, 1.3158, 1.3163 and 3150 with stop loss 1.3191.",0.0,0.3,"{'neg': 0.29, 'neu': 0.71, 'pos': 0.0, 'compound': -0.5423}","{'neg': 0.29, 'neu': 0.71, 'pos': 0.0, 'compound': -0.5423}"
+86,"USD on a tear, beating up NOK, AUD, CAD, CHF, JPY, and EUR",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+87,"USD staying strong against CAD, JPY, and EUR. Waiting for Q&amp;A to see if this holds.",0.4333333333333333,0.7333333333333333,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.5106}","{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.5106}"
+88,#GBP rallies vs. #USD and #EUR after #BOE #mpc minutes reveals a unanimous member vote for no further QE,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+89,"Support for EUR/USD is at 1.3075, 1.3050 and 1.3010. Resistance seen at 1.3208. 4. Gold found resistance at $1293. Support seen at $1279.",0.0,0.0,"{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.6597}","{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.6597}"
+90,@FGoria nice love to see GS bullish on EUR makes me and their own traders bullish on USD,0.55,0.8,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.7906}","{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.7906}"
+91,"AUD, NZD, JPY pointing for upcoming USD strenght wave, EUR and GBP has some potential for retracement too... All it needs - less dovish BB",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+92,If you haven't moved stops yet. i'm moving now my s.l at USD/JPY to 99.85 and at EUR/USD to 1.3094,0.0,0.0,"{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.2235}","{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.2235}"
+93,EUR/USD waiting for US housing data and Bernanke speech. #US #markets #bernanke #housing #Economy,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+94,"The JPY has weakened 0.3 percent and 0.2 percent against the USD and the EUR, respectively",0.0,0.0,"{'neg': 0.257, 'neu': 0.459, 'pos': 0.284, 'compound': 0.0772}","{'neg': 0.257, 'neu': 0.459, 'pos': 0.284, 'compound': 0.0772}"
+95,$GBP strengthening against $USD and $EUR on #BOE minutes,0.0,0.0,"{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.3182}"
+96,Strong moves from GBP posts just under a cent for GBP/EUR and over a cent for GBP/USD.,0.4333333333333333,0.7333333333333333,"{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.5106}","{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.5106}"
+97,Pound strengthens following BoE minutes 100 pips vs USD and 50 pips vs EUR,0.0,0.0,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}"
+98,"USD/JPY
+Options: 99.00/50 and 100.00
+
+EUR/JPY
+Options: 131.00
+
+USD/CAD
+Options: 1.0400
+
+EUR/USD
+Options: 1.3000 and 1.3200
+
+GBP/USD
+O...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+99,"In the FX world: USD, EUR higher, JPY, AUD, NZD lower and GBP  is mixed as we wait for the BOE minutes at 0930 BST ^KB",0.25,0.5,"{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}"
+100,EUR/USD steady at higher end of set ST range of 1.2750/1.2850-1.31/1.32; have seen one set of back-and-forth move; in making for the 2nd one,0.125,0.25,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+101,"Wave C's are almost complete in #USD/CHF, #EUR/USD, AND #GBP/USD",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+102,"World Coins,  EUR/USD - 0.0017,  USD/JPY + 0.18,  GBP/USD - 0.0035.
+
+BOJ fucky fucky one Dollar early TODAY, EUR and Cable, down of course.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+103,"Some people KNOW, others THINK they KNOW...
+
+Markets like $DAX and $SPX move daily, YES, but are really DRIVEN by $USD, EUR/USD, &amp; USD/YEN..",-0.125,0.375,"{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.6369}","{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.6369}"
+104,"Larry Shover SFG Alternative: OW equities to FI, UW EM and base metals, short EUR vs.USD, long oil @BusinessChannel #ASX",-0.2833333333333334,0.5666666666666668,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+105,"@RickSchmull ""Eur/Usd all the way from 1.299 to 1.318 and all it took was French &amp; EFSF downgrades + ZEW miss""",0.0,0.0,"{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.1531}","{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.1531}"
+106,Our Twitter and Facebook Trade Updater is back inclusive of EUR/USD signals . Happy Tradings,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+107,Can @xe not detect us UK people and put the standard currency as GBP? Why is it always EUR to USD. This is the land of GBP!,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+108,"#EUR/USD: The next leg up on the 4hr chart is underway and should accelerate through Wednesday's session, in pursuit of fresh highs &gt; 1.3209",0.15333333333333332,0.3466666666666667,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}"
+109,"If anybody wants my EUR/USD, DAX and FTSE short set up just email me ? 
+
+My current active trades 
+
+daytrader@inter-market-analysis.com",0.0,0.35,"{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.0772}","{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.0772}"
+110,"EUR/USD 1.3140 +5 , and - 4 +1, NET +25
+
+closed all pos, 1.3151, + &amp; - cancel..
+
+Total operation +25",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+111,"EUR/USD 1.3145 ++$$ +2p, and +9 = +11, net +18p
+
+open pos 1.3145 up/dn, stops +/- 25 pips",0.0,0.0,"{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}"
+112,"(　ﾟдﾟ)＜If I'm allowed to hava a hope, I hope EUR is sold and GBP and USD are bought tommorow.EURGBP is just approaching to a down trendline.",0.0,0.0,"{'neg': 0.0, 'neu': 0.539, 'pos': 0.461, 'compound': 0.7717}","{'neg': 0.0, 'neu': 0.539, 'pos': 0.461, 'compound': 0.7717}"
+113,"TRADE IDEA UPDATES:
+If you like to lower the risk, you can move s.l on USD/JPY to 99.75 and on EUR/USD to 1.31 (entry point)",0.0,0.0,"{'neg': 0.256, 'neu': 0.595, 'pos': 0.149, 'compound': -0.2023}","{'neg': 0.256, 'neu': 0.595, 'pos': 0.149, 'compound': -0.2023}"
+114,eur/usd signal sell only below 1.3040 if cofirmed.........flat and boring here at moment.,0.0,0.0,"{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}","{'neg': 0.25, 'neu': 0.75, 'pos': 0.0, 'compound': -0.25}"
+115,"EUR, GBP and AUD all offered vs. USD in the current trade. marginally",0.0,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+116,"#UK #inflation rate 2.9% in June, just below forecasts. $GBP weakens against $USD and $EUR",0.0,0.0,"{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.4215}","{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.4215}"
+117,"#FX: AUD higher after RBA  minutes, EUR and JPY are mixed, GBP is giving back early gains and the USD is weak.  ^KB #FX",-0.041666666666666664,0.375,"{'neg': 0.158, 'neu': 0.656, 'pos': 0.186, 'compound': 0.128}","{'neg': 0.158, 'neu': 0.656, 'pos': 0.186, 'compound': 0.128}"
+118,"USD/JPY
+Options: 99.50 and 100.00
+Offers: 100.50
+Bids: 99.00/20/40-50
+
+EUR/USD
+Options: 1.3050, 1.3100
+Offers: 1.3100
+Bids: 1.3000-10...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+119,"View of ^GDAXI was also REVERSED to NEG due to weakness on the ASEAN Mkts and relationships in the $USD, $/YEN, &amp; EUR/USD. $DAX expected NEG",-0.25,0.5,"{'neg': 0.153, 'neu': 0.847, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.153, 'neu': 0.847, 'pos': 0.0, 'compound': -0.4404}"
+120,"News to trade today: CPI (YoY) (GBP), German ZEW Economic Sentiment (EUR) and Core CPI (MoM) (USD).",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+121,"16.7.13 (Recomendation EUR/USD : BUY ---- , SELL 1.3030 ,stop loss 1.3115 and target 1.3005-1.2975",0.0,0.0,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}","{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}"
+122,"MEMBERS: Daily Trade Recap video posted and available now. Re: What we're looking for to confirm the next USD selloff for EUR$, $CHF, etc.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+123,"S/L's and targets EUR/USD,USD/SGD,USD/CHF unchanged.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+124,"$USD longs in G10.  long $USDJPY, $USDCHF spot and long $USD in a basket versus CAD, GBP, EUR and CHF. #fx #tradetalk",-0.05000000000000001,0.4000000000000001,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+125,"DXY - Gap filled now in USD index, so maybe we have pause here now in $JPY and EUR$",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+126,Absolutely pure price action in eur/usd. 1.30 and +20 pips for the pleasure.,0.15714285714285714,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+127,"$OIL is tanking now, $GLD losing all profits, EUR/USD ripped down, $USD 83.26 +0.32
+
+HIGH dollar bad for stocks, oil, metals, and EURO.",-0.6999999999999998,0.6666666666666666,"{'neg': 0.281, 'neu': 0.588, 'pos': 0.131, 'compound': -0.5106}","{'neg': 0.281, 'neu': 0.588, 'pos': 0.131, 'compound': -0.5106}"
+128,"EUR/USD finds buyers at 1.3050, Spanish PM btw rock and hard place",-0.14583333333333334,0.2708333333333333,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.1027}","{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.1027}"
+129,"EUR/USD keeps falling, around 1.30109 ,, lets wait for US data and see how it will reflect ..",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+130,"In the FX space: Aussie and Kiwi are higher, while JPY, GBP and CHF are weaker and EUR and USD are mixed ^KB #FX",0.25,0.5,"{'neg': 0.225, 'neu': 0.775, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.225, 'neu': 0.775, 'pos': 0.0, 'compound': -0.4404}"
+131,"EUR/USD
+Options: 1.2950 and 1.3150
+Offers: 1.3080, 1.3100
+Bids: 1.3000/25-30/50
+
+GBP/USD
+Options: 1.5100
+Offers: 1.5160-70, 1.5200-20...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+132,"Current levels on the rand are very easy to remember: 10.00 on USD/ZAR, 13.00 on EUR/ZAR and 15.00 on GBP/ZAR.",0.0,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+133,#USD held gains vs #JPY and #EUR from the end of last week before U.S. data on retail sales that may add to case for Fed to reduce stimulus,0.0,0.06666666666666667,"{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.5267}","{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.5267}"
+134,I did buy the dip on $EUR/USD last week and will look to PRESS gains and ADD to that position if/when 1.32056 is taken out,0.0,0.06666666666666667,"{'neg': 0.0, 'neu': 0.779, 'pos': 0.221, 'compound': 0.5267}","{'neg': 0.0, 'neu': 0.779, 'pos': 0.221, 'compound': 0.5267}"
+135,"EUR/USD 1.3063 +5, and +4 = +9 net + 29
+
+start dual up/down pos 1.3063, stops +/- 25 pips",0.0,0.0,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}"
+136,"EUR/USD open reverse position, switch stops to +/- 25 Create 2 hedges UP/DOWN, 1.3059 and 1.3053..
+
+We'll try to play back &amp; forth, extend..",0.0,0.25,"{'neg': 0.108, 'neu': 0.69, 'pos': 0.202, 'compound': 0.2263}","{'neg': 0.108, 'neu': 0.69, 'pos': 0.202, 'compound': 0.2263}"
+137,EUR/USD: But at 132181 with stop at 131616 (60 pips) and target  at 133460 (120 pips),0.0,0.0,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}"
+138,"YES, PLEASE. Down you go! And stay there! “@jpy: USD= 99.080JPY / EUR= 129.340JPY / GBP= 149.884JPY [Fri Jul 12 19:00:22 JST 2013]”",0.0,0.0,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4019}"
+139,Liking $EUR/USD up to 1.34 and $USD/JPY down to 96.5-97,0.0,0.0,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}","{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}"
+140,"@HiQTraders markets are rallying again, the usd is now falling, driving other currencies like the eur and the gbp especially higher",0.25,0.5,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}","{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}"
+141,so much for the EUR rally yesterday and all the stories about the short-lived USD rally. the single currency is slumping again.,0.2,0.2,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+142,"and just as USD index gap is likely tobe filled at some point,EUR/USD is likely to retrace a significant part of some of recent gains soon",0.0,0.25,"{'neg': 0.0, 'neu': 0.567, 'pos': 0.433, 'compound': 0.8126}","{'neg': 0.0, 'neu': 0.567, 'pos': 0.433, 'compound': 0.8126}"
+143,"#EUR/USD sold-off through stops below 1.3050 Specs grew frustrated and bailed on shorts yesterday, now going long today",-0.025,0.35,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}"
+144,Hello Friday! A good day for buying ZAR this side... and watching Cricket! USD / ZAR  10.0055 GBP / ZAR  15.1540 EUR / ZAR  13.0740,0.7,0.6000000000000001,"{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.4404}"
+145,USD Index steady at 82.50-83.00 and EUR/USD at 1.3050-1.3150; NT relief pukka Euro up from 1.2750 to 1.3150 but no cues as yet for 1.34,0.0,0.0,"{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.7845}","{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.7845}"
+146,"Long: $EUR/USD and $AAPL calls
+Short: $USD/JPY",-0.05,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+147,@C_may93 Where do you stand with EUR/USD right now? Still at Short? and Whats your target?,0.14285714285714285,0.4178571428571428,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+148,"#EUR/USD: Revised outlook - The 60m downside pullback from 1.3207 appears to be corrective against yesterday's rally, and should resolve up.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+149,"Attention all MyWikis Pro customers: Instead of invoices we are now introducing subscriptions in USD, CAD, EUR, and GBP.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+150,"weakness in $EUR and $GBP against
+the $USD $CAD $JPY and $AUD",-0.375,0.625,"{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.4404}"
+151,"weakness in $EUR and $GBP against
+the $USD $CAD $JPY and $AUD",-0.375,0.625,"{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.4404}"
+152,"initial jobless claims came out worse than expected!
+take call option on eur/usd, gbp/usd and gold!",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+153,I have sussed what EUR/USD will do and yesterday was a blessing in disguise. We only made approx. 500 pips per trade from trend start which,0.0,0.0,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}","{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}"
+154,"USD still weak after the more dovish than expected FOMC minutes. AUD, CHF and EUR are extending gains, while GBP and JPY are more muted",-0.375,0.625,"{'neg': 0.145, 'neu': 0.6, 'pos': 0.255, 'compound': 0.296}","{'neg': 0.145, 'neu': 0.6, 'pos': 0.255, 'compound': 0.296}"
+155,"@_BigJi Most of the action was between 1:30 &amp; 4:30 am IST today... Luckily I was long EUR/USD, GBP/USD, EUR/JPY.... and closed in morning..",0.025,0.25,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+156,"USD still weak after the more dovish than expected FOMC minutes. AUD, CHF and EUR are extending gains, while GBP and JPY are more muted^KB",-0.375,0.625,"{'neg': 0.145, 'neu': 0.6, 'pos': 0.255, 'compound': 0.296}","{'neg': 0.145, 'neu': 0.6, 'pos': 0.255, 'compound': 0.296}"
+157,EUR/USD went through sell orders at 1.2800 and 1.2830 only to fall back and ran into good sell interest above 1.4920 and returning to 1.4885,0.35,0.30000000000000004,"{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.7096}","{'neg': 0.0, 'neu': 0.688, 'pos': 0.312, 'compound': 0.7096}"
+158,"@petergo99037185 $DAX waiting for DROP.. tap, tap, on floor..
+
+NOTE drop of EUR/USD and GBP/USD since $DAX opened,$/YEN still (-) big?",0.0,0.1,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.4939}","{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.4939}"
+159,"USD/JPY
+Options: 97.00, 98.00, 99.00 and 100.00
+
+EUR/USD
+Options: 1.2950, 1.3000 and 1.3100
+
+AUD/USD
+Options: 0.9000
+
+GBP/USD
+Options...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+160,“@TravisRobson_IG: Currencies #RSA - USD/ZAR: 9.89; EUR/ZAR: 12.95; GBP/ZAR: 14.95; AUD/ZAR: 9.18” and could be going lower on the USD,0.0,0.0,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}"
+161,"weak USD fundamentely not justified vs internally much weaker EUR, so are commodities and gold breaking their downturn now?",-0.0875,0.4125,"{'neg': 0.367, 'neu': 0.633, 'pos': 0.0, 'compound': -0.7003}","{'neg': 0.367, 'neu': 0.633, 'pos': 0.0, 'compound': -0.7003}"
+162,Anyone questioning the manipulation of markets by central bankers should look at currencies and at the eur/usd chart... Almost a 3% move...,0.0,0.25,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+163,"Hi @Airbnb! I´m in Argentina and want to book a listing in the US. Why EUR is the only payment option, instead of USD? Thanks!",0.0,0.0,"{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.4215}","{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.4215}"
+164,EUR/USD is trading at 1.30764 +0.00935 +0.72% and GBP/USD is at 1.50849 +0.00791 + 0.53% tonight.,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+165,"With weakness of DOLLAR, EUR/USD and GBP/USD are reaping huge gains, didn't see that for tonight, my forecast for both was down, got metals^",0.012500000000000039,0.7625,"{'neg': 0.156, 'neu': 0.538, 'pos': 0.306, 'compound': 0.4215}","{'neg': 0.156, 'neu': 0.538, 'pos': 0.306, 'compound': 0.4215}"
+166,"I canceled EUR USD short before and of the day. Well, it was a luck.",0.0,0.3,"{'neg': 0.18, 'neu': 0.36, 'pos': 0.459, 'compound': 0.4767}","{'neg': 0.18, 'neu': 0.36, 'pos': 0.459, 'compound': 0.4767}"
+167,@fiblogix thinking EUR/JPY more sustained rather than USD/JPY and EUR/USD,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+168,@dhank2525 @PeterSchiff EUR/USD at 1.30 vs. 1.60 in 2007 before rate cuts and QE.. I'd say the dollar is doing just fine,0.4166666666666667,0.5,"{'neg': 0.193, 'neu': 0.642, 'pos': 0.165, 'compound': -0.0772}","{'neg': 0.193, 'neu': 0.642, 'pos': 0.165, 'compound': -0.0772}"
+169,eur/usd above 1.30 and moving,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+170,EUR/USD: Buy at 129922 wit stop at 129340 (60 pips) and target at 131168 (120 pips),0.0,0.0,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}"
+171,Long usd against Aud and eur..small size to start,-0.05,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+172,#EUR/USD: The 4hr bounce up from today's low @ 1.2755 is corrective in the downtrend and should top and reverse &lt;1.3078 within 24-48 hrs.,0.25,0.4,"{'neg': 0.141, 'neu': 0.738, 'pos': 0.121, 'compound': -0.0772}","{'neg': 0.141, 'neu': 0.738, 'pos': 0.121, 'compound': -0.0772}"
+173,Be ready for AUD and NZD performing better than the EUR again on USD strength,0.5,0.5,"{'neg': 0.0, 'neu': 0.496, 'pos': 0.504, 'compound': 0.7269}","{'neg': 0.0, 'neu': 0.496, 'pos': 0.504, 'compound': 0.7269}"
+174,"@JackieTheTrader Having a very good week so far. Few successful trades like eur/usd, eur/gbp and eur/nok all to the upside.",0.36666666666666664,0.5333333333333333,"{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.8442}","{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.8442}"
+175,@piptrain just correction---im long aussie but from good price...looking to get usd bull again on gbp and eur after this week,0.32499999999999996,0.5,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.4404}"
+176,Covered $EUR/USD short for +51 and flipped to long at .2815,-0.025,0.35,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+177,"At the close of the U.S. session, EUR/USD was down 0.73% at 1.2777, up from a session low of 1.2763 and off from a high of 1.2898.",0.08,0.41999999999999993,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}"
+178,Nice retrace on Eur/Usd this morning. Fed tonight though so moves may be limited until then. Play safe and avoid the churn.,0.55,0.75,"{'neg': 0.108, 'neu': 0.493, 'pos': 0.399, 'compound': 0.7096}","{'neg': 0.108, 'neu': 0.493, 'pos': 0.399, 'compound': 0.7096}"
+179,@NourHammoury what's ur entry and stop in eur/usd?,0.0,0.0,"{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.296}"
+180,SOC GEN says stay long #USD and short #EUR to profit from #FED tapering...I have to say I agree. The real question is how long,0.025000000000000005,0.35,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}"
+181,"EUR/USD +35 pips since our initial observation last night based on KNOWN FACTS and reoccurring trends in COINS, ++$$",-0.4,0.5333333333333333,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+182,"#FX: the yen is stronger across the board, the Aussie has recovered after a dip earlier,  USD is weaker and EUR and GBP are mixed. ^KB",0.0,0.5,"{'neg': 0.176, 'neu': 0.667, 'pos': 0.158, 'compound': -0.0772}","{'neg': 0.176, 'neu': 0.667, 'pos': 0.158, 'compound': -0.0772}"
+183,"$USD 84.47 -0.15, falling fast, This is good for Stocks, OIL, Metals, and some commodities. If BOJ not active YEN (-), EUR/USD shud benefit.",0.44999999999999996,0.6000000000000001,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.7096}","{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.7096}"
+184,Ugh... the EUR/USD exchange rate fell quite a bit during the last month. Should have noticed sooner and made some prorders :(,0.0,0.06666666666666667,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.4215}","{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.4215}"
+185,"@Brad616 Hola Brad, I'm still bullish USD at the moment, so looking to sell NZD, AUD, EUR and GBP on retracements. Kind Regards - Chris",0.6,0.9,"{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.5267}","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.5267}"
+186,"@jimcramer Gold and gold mining stocks up eventhough USD is strong vs EUR, bottoming out?",0.4333333333333333,0.7333333333333333,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.5106}","{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.5106}"
+187,"@SomeIndieGames argh! Was hoping no one would notice, but... they do. At least USD, GBP and EUR. I'm not including SEK, DKK etc. :P",-0.3,0.4,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}"
+188,@demarktrader @pietersen10 Today and Yesterday very good days for me but tomorrow everything could be over. Much money in EUR/USD,0.44999999999999996,0.4,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}"
+189,End of JPY as funding currency: Stocks rise and USD/JPY falls.... Will EUR replace JPY now?,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+190,Only 30 ticks chopped off EUR/USD on S&amp;P move and mostly recovered to around 1.2770,0.5,0.5,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+191,@zerohedge lets not forget at one stage it was below eurusd 0.9 not 1.27! lets make life simple and call it 1 eur=1 usd equilibrium,0.0,0.0,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}","{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}"
+192,#EUR/USD: DTC move in progress after price hit a wall of resistance on the overlay of 38 Fibo and 4hr Old Low from 7/04/12:00 GMT @ 1.2883.,0.05,0.25,"{'neg': 0.111, 'neu': 0.741, 'pos': 0.148, 'compound': 0.1779}","{'neg': 0.111, 'neu': 0.741, 'pos': 0.148, 'compound': 0.1779}"
+193,#EURGBP - Stark downward pressure coming through as GBP/USD is bought ahead of the barrier and EUR is sold across the board on Asmussen talk,-0.2,0.6,"{'neg': 0.103, 'neu': 0.897, 'pos': 0.0, 'compound': -0.128}","{'neg': 0.103, 'neu': 0.897, 'pos': 0.0, 'compound': -0.128}"
+194,"A close below 1.2800 would be very bearish for eur/usd, violates the neck line of a long term head and shoulders. 1.2650 the likely target",-0.05,0.4,"{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.3612}","{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.3612}"
+195,@brasil61  It is amusing when price and technicals are finally faced with reality of fundamentals. #EUR/USD,0.0,1.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+196,"USD turns stronger against majors specially EUR and GPB in the last hour of European trading section, setting tone of strong USD.",0.17059523809523808,0.3742857142857143,"{'neg': 0.0, 'neu': 0.594, 'pos': 0.406, 'compound': 0.8357}","{'neg': 0.0, 'neu': 0.594, 'pos': 0.406, 'compound': 0.8357}"
+197,UK increase to 0.9% from 0.6% may be helping #FTSE but #Sterling down 1.0% against AUD 0.7% against USD and 0.3% against EUR,0.0,0.0,"{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}"
+198,"Good morning, The EUR/USD $FXE is falling here and may be reason our major indexes are coming off their highs, esp $QQQ.",0.3075,0.5466666666666667,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}"
+199,"EUR/USD selling, Spain and Italy red on the day",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+200,Check out the daily support  for Eur/Usd and Gbp/Usd on the DTF,0.0,0.0,"{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}"
+201,@Sigma_Square or it can be wave b on eur/usd and we can expect one more wave c to upside and the clasic sell area will be perfect for sell,1.0,1.0,"{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.5719}","{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.5719}"
+202,"INR/USD and DXY correlation is not static and varies differently on different time-frames. INR crashed 1st, EUR, GBP now..@ashwanitiwari4",0.5,0.9,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}","{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}"
+203,GBP trading fresh multi-week lows vs USD and EUR... GBP weakness following poor macro figures,-0.11875000000000001,0.50625,"{'neg': 0.418, 'neu': 0.464, 'pos': 0.119, 'compound': -0.7003}","{'neg': 0.418, 'neu': 0.464, 'pos': 0.119, 'compound': -0.7003}"
+204,eur/usd quiet and boring in range 1.2850/90...flat here,0.0,0.3333333333333333,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.25}","{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.25}"
+205,"0.8650 has been hit after 4 months on EUR/GBP. And the turn now comes on GBP/USD (intraday call), and it should bounce around 1.4810-15",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+206,"Sterling down across the board! Lost half cent v EUR, 1 cent v USD. Trade balance, industrial and manufacturing production all lower.",-0.16666666666666666,0.16666666666666666,"{'neg': 0.257, 'neu': 0.743, 'pos': 0.0, 'compound': -0.5423}","{'neg': 0.257, 'neu': 0.743, 'pos': 0.0, 'compound': -0.5423}"
+207,Just closed another eur/usd at BE. Cable is looking too ugly and may well drag it down.,-0.1,0.07083333333333333,"{'neg': 0.173, 'neu': 0.636, 'pos': 0.191, 'compound': 0.0516}","{'neg': 0.173, 'neu': 0.636, 'pos': 0.191, 'compound': 0.0516}"
+208,"EUR/USD
+""It is crucial ... that there is political stability to push forward programmes and this goes for Portugal.""",0.0,1.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+209,Those buying #EUR/USD now are betting against the trend and chasing stops that may not exist.,0.0,0.0,"{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}"
+210,"#FX: In the FX space the yen is weak along with the CHF and NOK, while Aussie, Kiwi and CAD are stronger, USD, GBP and EUR are mixxed ^KB",-0.375,0.625,"{'neg': 0.166, 'neu': 0.686, 'pos': 0.149, 'compound': -0.0772}","{'neg': 0.166, 'neu': 0.686, 'pos': 0.149, 'compound': -0.0772}"
+211,our buy in Eur/usd and GBP/usd also giving profits hold positions till further intimation,0.0,0.0,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}"
+212,"The way the relief trade is going, if Bernanke is as calming as expected tomorrow, chance of a new high in SPX and EUR/USD back at 1.30.",0.1490909090909091,0.43613636363636366,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.6597}","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.6597}"
+213,"Goldman Sachs: Stay long EUR/USD, opened at 1.31 on 01 Jul 2013, with an initial target of 1.35 and a stop on a close below 1.28./ Hmmm...",-0.025,0.45,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.296}"
+214,"$USD 84.28 +0.06 (plus is BAD), DOL denominated YEN 101.13 +0.18 putting a little pressure already on EUR/USD and GBP/USD. loses to come AM.",-0.6999999999999998,0.6666666666666666,"{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.7351}","{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.7351}"
+215,MEMBERS: Daily Trade Recap video posted and available now. Re: Watching today's USD-negative retracement into the next leg down for EUR/USD.,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+216,The market today is quite! I only opened one small position in the EUR/USD for a small target! And the trade was BINGO👍,-0.16666666666666666,0.43333333333333335,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+217,BoE and ECB Announce Policy Within the Hour; EUR/USD and GBP/USD Flat ...,-0.025,0.125,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+218,"Short-term sentiment remains mixed with #AUD and #NZD showing the most strength, #EUR getting bid on Draghi comments, and #USD losing #fx",0.0,0.0,"{'neg': 0.181, 'neu': 0.604, 'pos': 0.215, 'compound': 0.128}","{'neg': 0.181, 'neu': 0.604, 'pos': 0.215, 'compound': 0.128}"
+219,"New lows in GBP, EUR and AUD vs USD will shift my bias tho. But that is a long way to go at the moment.",0.028787878787878782,0.38484848484848483,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.3612}","{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.3612}"
+220,"Trends set. DMP matrix places USD strongest, EUR and GBP ready to tumble towards 1.265 and 1.46. Gold is likely to weaken below 1200...",0.0,0.0,"{'neg': 0.121, 'neu': 0.647, 'pos': 0.233, 'compound': 0.3818}","{'neg': 0.121, 'neu': 0.647, 'pos': 0.233, 'compound': 0.3818}"
+221,Also eyeing up 1.2795 for failure in EUR/USD and would anticipate good upside if that occurs,0.7,0.6000000000000001,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}"
+222,1.2828 SHORT EUR/USD looking for 40pips and 10 pips stop,0.0,0.3,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}"
+223,"dol/yen,  lost all up, eur/usd, and gbp/usd should increase in value overnight in yen remains higher, lower in numbers..",0.25,0.5,"{'neg': 0.304, 'neu': 0.608, 'pos': 0.088, 'compound': -0.4939}","{'neg': 0.304, 'neu': 0.608, 'pos': 0.088, 'compound': -0.4939}"
+224,@moneyt825 I'm with you but if its just gbp and eur weakness why not play the usd majors instead?  #aud oversold?,-0.15625,0.5625,"{'neg': 0.257, 'neu': 0.531, 'pos': 0.212, 'compound': -0.128}","{'neg': 0.257, 'neu': 0.531, 'pos': 0.212, 'compound': -0.128}"
+225,RT @fxseekin: Both EUR/USD and GBP/USD have June monthly candle closes that are unmistakenly bearish Ripe for Reactions Then? #fxroom,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+226,Both EUR/USD and GBP/USD have June monthly candle closes that are unmistakenly bearish,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+227,Here come the Hawks...Thanks to a better than expected NFP. Interesting week ahead. Keeping core longs for USD/JPY and short EUR/USD.,0.15,0.39999999999999997,"{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.7096}","{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.7096}"
+228,"USD finishes last week very strong, and pushing in the European side and in the Asian one too...JPY still strong ..EUR super weakning.......",0.19999999999999998,0.36666666666666664,"{'neg': 0.0, 'neu': 0.553, 'pos': 0.447, 'compound': 0.8885}","{'neg': 0.0, 'neu': 0.553, 'pos': 0.447, 'compound': 0.8885}"
+229,BoE and ECB Announce Policy Within the Hour; EUR/USD and GBP/USD Flat ...,-0.025,0.125,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+230,"UBS: USD is entering a perfect storm that should see it rally this year to 1.20, 110, 1.41 and 1.03 against EUR, JPY, GBP and CHF...",1.0,1.0,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.5719}","{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.5719}"
+231,Flash: Long the USD against EUR and GBP – Deutsche Bank,-0.05,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+232,The EUR/USD and GBP/USD continue lower following the release of the strong U.S. jobs report Friday.,0.4333333333333333,0.7333333333333333,"{'neg': 0.163, 'neu': 0.593, 'pos': 0.244, 'compound': 0.2732}","{'neg': 0.163, 'neu': 0.593, 'pos': 0.244, 'compound': 0.2732}"
+233,"Cancelling order on EUR/USD due to time frame, and also note 5/17 low at entry swing 127%R....and it is Friday",-0.0625,0.3375,"{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.4767}","{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.4767}"
+234,"the unstoppable USD: the buck is now at a July 2010 high vs a basket, its strongest vs EUR in 1 ½ months and 5-week highs vs JPY and CHF",0.16,0.5399999999999999,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}"
+235,@aspentrading10 USD/CAD and EUR/NOK is on a nice move higher now. Great analysis and thanks for staying on the top of it.,0.5375,0.6875,"{'neg': 0.0, 'neu': 0.349, 'pos': 0.651, 'compound': 0.8807}","{'neg': 0.0, 'neu': 0.349, 'pos': 0.651, 'compound': 0.8807}"
+236,#bought Eur/usd at 1.2818 for a profit of 50 pips and a stoploss of 100,0.0,0.0,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}"
+237,"#EUR/USD Moves on the last 3 releases have been 1% at most, and closes have been around 40 ticks within that range.",0.0,0.06666666666666667,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+238,"I am now short EUR/JPY (not cash, long puts). Looking for a breakdown of EUR and 2nd leg down for USD/JPY obviously. Cost of puts already",-0.0125,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+239,"US 10-yr yield 2.7% highest in 2 years, $USD surging, $EUR tumbling and going to test 1.28",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+240,"And, as expected, eur/usd is cratering...",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+241,Took some profit off the table by closing half of my EUR/USD short (1.2883) ahead of NFP and the weekend.  Good luck today!,0.17777777777777778,0.3555555555555556,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.8316}","{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.8316}"
+242,"@AngiePerrinFX BIG IMP # it will move EUR/USD, $DAX and EU Mkts, plus our $USD and Futures.. Thanks Angie, TRADE GREAT!",0.4,0.425,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.765}","{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.765}"
+243,Flash: What does the EUR/USD have to offer? – Commerzbank and Westpac,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+244,"#FX is fairly directionless ahead of payrolls, USD is broadly higher, EUR CHF. CAD and AUD are mixed, while GBP and JPY are weak ^KB",0.159375,0.584375,"{'neg': 0.159, 'neu': 0.714, 'pos': 0.126, 'compound': -0.1531}","{'neg': 0.159, 'neu': 0.714, 'pos': 0.126, 'compound': -0.1531}"
+245,"OIL -0, GLD -5.50,SLV -.14&lt;&gt;&lt;&gt; COINS so far EUR/USD -13, USD/JPY +0.32, GBP/USD -4, 
+
+Where is your $$, mine out of broker's hand EU and US.",0.1,1.0,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}","{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}"
+246,"On the close above 100 in USD/JPY I took profit on EUR/JPY shorts, it's Friday and NFP so why not start my weekend? Take care.",0.0,0.3,"{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.7269}","{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.7269}"
+247,"is this the bottom for EUR USD ? or it will stay there for a bit and still continue for 1,2750?",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+248,"I am outta my EUR/USD short, USD/CHF long, and GBP/USD short. These pairs have been going in the direction i like for too long already.",0.0,0.36,"{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.3612}","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.3612}"
+249,"Buy EUR/USD Go long EUR/$ on better growth in the periphery and large BBoP differential,,",0.225,0.45,"{'neg': 0.0, 'neu': 0.593, 'pos': 0.407, 'compound': 0.6705}","{'neg': 0.0, 'neu': 0.593, 'pos': 0.407, 'compound': 0.6705}"
+250,After today's ECB press conf I am 100% convinced that the drop of the USD between 2001 and 2008 is going to be mirrored by the EUR now #ECB,0.0,0.0,"{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}"
+251,"@ForexLive Looks like the USD will be the king of the summer, already killed GBP and EUR, AUD next to slide under 0.9000?",0.0,0.0,"{'neg': 0.258, 'neu': 0.604, 'pos': 0.137, 'compound': -0.4939}","{'neg': 0.258, 'neu': 0.604, 'pos': 0.137, 'compound': -0.4939}"
+252,RT @CT_Osprey: Hunting GBP/USD long and/or EUR/JPY short.  No position yet. Those are my fav charts right now.  (short term FX) :-),0.05892857142857143,0.38392857142857145,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.4588}","{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.4588}"
+253,@scottplus seeing JPY and USD strength governing EUR outlook med term sans a major adjustment of DXY basket weighting.,0.0625,0.5,"{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4939}","{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4939}"
+254,#EUR/AUD Stops eyed 0.9140-50 and 0.9180 AUD/USD.Big short AUD exposure leaves it most vulnerable to pre-NFP shuffle,0.0,0.3,"{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.296}"
+255,"The JPY has strengthened 0.3 percent and 0.1 percent against the EUR and the USD, respectively.",0.0,0.0,"{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.6597}","{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.6597}"
+256,"#FX: no unifying theme today. The JPY is higher along with the Aussie, NZD. GBP and CHF are weaker, USD and EUR are mixed ^KB",0.25,0.5,"{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}"
+257,"#EUR/USD Stops eyed under 1.2950, ACB bids mulled 1.2975. Sell Orders 1.3020-25, stops 1.3040 and 1.3055. Larger Sell Orders 1.3075-95",0.0,0.5,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.5267}","{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.5267}"
+258,200-HMA at 1.3043 and 100-DMA @ 1.3053 are first resistance #EUR/USD,0.25,0.3333333333333333,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+259,"Its the PIIGS and ECB in the spotlight. And to our US friends, happy Independence Day!: USD/ZAR 10.0547 GBP/ZAR 15.3318 EUR/ZAR 13.0620",0.0,0.0,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}","{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}"
+260,USD/INR into sideways trading at 59.95-60.15; bearish momentum on NIFTY and EUR/USD risk revisit of 60.35-60.40 while above 59.80-59.85,0.0,0.0,"{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2732}"
+261,"#OneTwoTrade asset index includes the most traded assets in market such as Apple, Google, IBEX, NASDAQ, FTSE 100, EUR/USD, EUR/JPY and HSBC.",0.0,0.0,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.6124}","{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.6124}"
+262,"@dunx1000 @D_Blanchflower Pound is  doing very little vs  Usd &amp; eur, has appreciated vs Brazil, India, Japan and gold. What collapse??",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+263,".. confined to tight ranges. The USD-Index trades down 0.5%, with EUR/USD consolidating above the 1.3000 handle and GBP/USD just belo...",-0.17857142857142858,0.2857142857142857,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+264,@mariosingh last night the serene voice of Andrea Bocelli caused a fall in EUR/USD and tonight Luciano causes an increase in the same pair.,0.0,0.06666666666666667,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+265,Looking at NFP to beat expectations. Keeping core long in USD/JPY and short EUR/USD.,-0.025,0.35,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+266,I've been trading cable more and more recently. I think it's because it moves so much quickly than eur/usd. TP/SL gets hit quicker #LessPain,0.16666666666666666,0.375,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+267,Short EUR/USD $MS $POT $GS and am Long $AAPL (1/4)...NFP Fri could move things BIG so don't hold too much trough the 1:00 PM close,0.037500000000000006,0.25,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+268,#EUR/USD 1.2985 sell trigger met and session high for now.Candles are throwing up a hammer risk,0.16,0.5399999999999999,"{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2732}"
+269,EUR/USD now reversing ADP losses and rising once again. What's going on?,0.0,0.0,"{'neg': 0.315, 'neu': 0.685, 'pos': 0.0, 'compound': -0.3182}","{'neg': 0.315, 'neu': 0.685, 'pos': 0.0, 'compound': -0.3182}"
+270,"EUR USD
+
+The pair is expected to find its first support at 1.2904 and first resistance at 1.2990.",0.25,0.3333333333333333,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.4019}"
+271,Out of yesterday's short-term long GBPUSD +100 pips. Still running my structural long GBP vs EUR and USD.,-0.05,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+272,"RESEARCH: Long EUR/PLN, EUR/HUF and USD/ZAR:",-0.05,0.4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+273,Unusual to see the usd/jpy and the eur/usd dropping together. They usually diverge.,-0.25,0.25,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2732}"
+274,@Sigma_Square can you look to eur/usd and say where can be TP of wave 5?,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+275,EUR/USD: Sell at 129507 with stop at 130116 and take profit at 128274 (120 pips),0.0,0.0,"{'neg': 0.168, 'neu': 0.611, 'pos': 0.221, 'compound': 0.1779}","{'neg': 0.168, 'neu': 0.611, 'pos': 0.221, 'compound': 0.1779}"
+276,Combination of bearish momentum from NIFTY and EUR/USD would drive USD/INR into higher end of 59-60; watch 59.35/59.60-59.90/60.15,0.25,0.5,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+277,Technicals and fundamentals lined up for EUR/USD shorts. Portuguese PM in denial that gov't falling apart.,0.0,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+278,First day of trading is ending with a Profit/Loss of +1800 € on 20000€ invested. Gained a lot on EUR/USD and quite a bit selling Blackberry.,0.25,0.3333333333333333,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.5267}","{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.5267}"
+279,EUR/USD and GBP/USD are trending lower. The pairs are reaching our target to the downtrend.,0.0,0.0,"{'neg': 0.237, 'neu': 0.645, 'pos': 0.118, 'compound': -0.2732}","{'neg': 0.237, 'neu': 0.645, 'pos': 0.118, 'compound': -0.2732}"
+280,@AskPayPal How can I change the currency I use to withdraw money from my account? The account is in USD and it forces me to withdraw in EUR.,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+281,EUR/USD (trade no.407) hit target 1.3010 with 52 pips profit. Become a member and receive free signals with sound alert.,0.4,0.6000000000000001,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.8126}","{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.8126}"
+282,@kathylienfx last week EUR/USD came to 1.3000 THREE times between 14:55PM and 15:00PM GMT. today it was earlier.,0.0,0.2833333333333333,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+283,like i had mentioned Eur/usd was unable to sustain above 1.3080 and corrected to 1.3010 now remain short for targets of 1.2880-1.2780,0.0,0.3,"{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.3612}","{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.3612}"
+284,"#EUR fallen toward a 4-week low v. #USD and snapped three days of gains v. #JPY, partly on speculation #ECB will keep easy monetary policy",0.0,0.3,"{'neg': 0.242, 'neu': 0.579, 'pos': 0.179, 'compound': -0.0516}","{'neg': 0.242, 'neu': 0.579, 'pos': 0.179, 'compound': -0.0516}"
+285,"@MaKza $USD will tell of TURN,
+
+WATCH $USD if drops $DAX and $DOW  will RUSH UP w/EUR/USD.",0.0,0.0,"{'neg': 0.208, 'neu': 0.792, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.208, 'neu': 0.792, 'pos': 0.0, 'compound': -0.2732}"
+286,"@petergo99037185 $OIL marginally UP, $GLD/$SLV slightly UP, 
+
+EUR/USD and Cable sterling DOWN, weak patterns in charts last night, 
+
+$DAX ?",-0.18055555555555555,0.2861111111111111,"{'neg': 0.195, 'neu': 0.805, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.195, 'neu': 0.805, 'pos': 0.0, 'compound': -0.4404}"
+287,"""@FOREXcom: #FX: GBP and SEK are best performers so far in the G10, while AUD, NZD and CHF are weaker, EUR and USD are mixed ^KB""",0.55,0.65,"{'neg': 0.16, 'neu': 0.608, 'pos': 0.232, 'compound': 0.3182}","{'neg': 0.16, 'neu': 0.608, 'pos': 0.232, 'compound': 0.3182}"
+288,"The JPY has marginally strengthened against the USD and the EUR, respectively.",0.0,0.0,"{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.6597}","{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.6597}"
+289,"#FX: GBP and SEK are best performers so far in the G10, while AUD, NZD and CHF are weaker, EUR and USD are mixed ^KB",0.55,0.65,"{'neg': 0.16, 'neu': 0.608, 'pos': 0.232, 'compound': 0.3182}","{'neg': 0.16, 'neu': 0.608, 'pos': 0.232, 'compound': 0.3182}"
+290,"In 3hrs more, the reports of eur and gbp tecnichal analysis of pair with usd intraday.... ;)",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+291,"I just bought stocks of Google, Tesla Motor, got some ounces of Gold and went short on EUR/USD. #SoMuchFun with @Plus500",0.0,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+292,CLOSES ON 15 MIN ON EUR/USD ABOVE 1.3066 AND CANDLES THAT INTERACT WITH 1.3073 THAT CLOSE AS 'GREEN' CANDLES WILL BE TWO MORE IMPORTANT,-0.2,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+293,eur/usd in tight range 1.3020/45 flat and boring here.,-0.10178571428571428,0.20535714285714285,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.25}","{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.25}"
+294,"Take profit areas. 
+Eur/gbp @ 0.8450 and lower
+Aud/usd @ 0.9410 
+Gbp/usd @ 1.5410 
+Silver around $23-$24
+Gold around $1350-1400
+#fx #trading",0.0,0.0,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}"
+295,Everyone! Move Stop Loss to entrance for EUR/JPY and AUD/USD trades!,0.0,0.0,"{'neg': 0.429, 'neu': 0.571, 'pos': 0.0, 'compound': -0.5423}","{'neg': 0.429, 'neu': 0.571, 'pos': 0.0, 'compound': -0.5423}"
+296,eur/usd in range 1.3035/60 flat and quiet here.,-0.0125,0.22916666666666666,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+297,Flash: What does the EUR/USD have to offer? – Commerzbank and NAB,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+298,"Barclays -#FX-Barclays -Remain short CHF, JPY and EUR vs USD, also likes to position for weaker GBP vs greenback",0.0,0.3,"{'neg': 0.167, 'neu': 0.69, 'pos': 0.144, 'compound': -0.1027}","{'neg': 0.167, 'neu': 0.69, 'pos': 0.144, 'compound': -0.1027}"
+299,"#FX: JPY, CHF, GBP are all weaker today, while AUD is stronger and USD and EUR are mixed ^KB",0.0,0.0,"{'neg': 0.215, 'neu': 0.593, 'pos': 0.193, 'compound': -0.0772}","{'neg': 0.215, 'neu': 0.593, 'pos': 0.193, 'compound': -0.0772}"
+300,"@tokkatrain also, why does it only accept donations in USD and not in EUR? now i donated less than i wanted because i was to lazy to convert",0.0,0.0,"{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.4404}","{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.4404}"
+301,Gold rise 2 percent in Asia Session from previous low of 1224 to now 1245. AUD/USD and EUR/USD recovers some short from Friday low. #fx,-0.041666666666666664,0.26666666666666666,"{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.4939}","{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.4939}"
+302,"@IlyaSpivak please can you help me with the analysis on eur/usd, aud/usd and usd/cad is it a buy or a sell what's the trend?? txn",0.0,0.0,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.4019}"
+303,"@IlyaSpivak hello mr llya spivak please can you hep me with the analysis on eur/usd, aud/usd and usd/cad is it up trend or down?",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+304,USD Index extends gains beyond 82.50-83.00 into 83.65-84.50 (EUR/USD into 1.2750 and USD/JPY into 103.75); USD/INR not beyond 59.60-59.85,0.0,0.0,"{'neg': 0.0, 'neu': 0.702, 'pos': 0.298, 'compound': 0.6249}","{'neg': 0.0, 'neu': 0.702, 'pos': 0.298, 'compound': 0.6249}"
+305,EUR/USD played back and forth of 1.2975/1.3000-1.3075/1.3100 (1.3103/1.2990); tone weak for 1.2750-1.2850 while below 1.3075-1.3125,-0.1875,0.3125,"{'neg': 0.218, 'neu': 0.602, 'pos': 0.18, 'compound': -0.128}","{'neg': 0.218, 'neu': 0.602, 'pos': 0.18, 'compound': -0.128}"
+306,"Top currencies to watch are the USD, EUR and JPY #OANDAH2",0.5,0.5,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.2023}","{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.2023}"
+307,short aud and eur against usd. Going to be away for a week so will see what happened when I get back,0.0,0.15,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+308,IDR THB MYR USD GBP INR JPY SGD EUR etc.. and I know everything. #snooty !!,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+309,looking for USD levels to hold or break vs EUR and GBP. No trades before a clear signal,0.10000000000000002,0.3833333333333333,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.3818}","{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.3818}"
+310,"ความเห็นของฝรั่งคนหนึ่ง...
+Usd.Jpy and shorts (sells) on Aud.Usd, Eur.Usd and Gbp.Usd.",0.0,0.3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+311,@Louis_Dwyer These are main currency pairs for our robot. Now we are testing our robot on EUR/USD GBP/USD and USD/JPY,0.16666666666666666,0.3333333333333333,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+312,Nice resistance on eur /usd managed to push it up to that daily resistance 131 clearing those stops and 13070 cleared.,0.26666666666666666,0.5888888888888889,"{'neg': 0.115, 'neu': 0.469, 'pos': 0.417, 'compound': 0.7003}","{'neg': 0.115, 'neu': 0.469, 'pos': 0.417, 'compound': 0.7003}"
+313,"Top currencies to watch are the USD, EUR and JPY #OANDAH2",0.5,0.5,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.2023}","{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.2023}"
+314,Last 2 trades of the day I can see are: EUR/USD short upon a 15 min close above 1.3032 with 40pip SL and GBP/USD long upon the next 15 min,-0.0125,0.19166666666666665,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+315,Large account flat into w/e. small acc active short aud usd eur usd and long usd cad.. Have a great weekend everyone.. I'm out now,0.095,0.395,"{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.6249}","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.6249}"
+316,Closed EUR/USD short getting ready for early w/e and a clear mind,0.05000000000000001,0.3416666666666667,"{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}","{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}"
+317,Sterling taking a bath today.vs USD we are at 1.5215 and vs. EUR we have 1.1690.  What will give the euro some weakness! and £ a boost?,-0.375,0.625,"{'neg': 0.186, 'neu': 0.641, 'pos': 0.173, 'compound': -0.0516}","{'neg': 0.186, 'neu': 0.641, 'pos': 0.173, 'compound': -0.0516}"
+318,"eur.usd bears have definitely not left the building, and although way early,  a 1.3000 retest today would not be surprising.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+319,Nice little 40 pips profit on the eur/usd trading btw 10:30:09 and 13:44:13... God is good... My financial freedom is in the bag!,0.6499999999999999,0.8,"{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.9313}","{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.9313}"
+320,EUR/USD intraday:the pair has broken above the upper boundary of a bearish channel and remains on the upside.,-0.2,0.2,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}","{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}"
+321,Flash: What can we expect from the EUR/USD – UBS and Commerzbank,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+322,What can we expect from the EUR/USD – UBS and Commerzbank,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+323,Eur  / usd still watching 13060 /70 area and indicators at this level resistance and perhaps decision?,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+324,"$USD 82.88 -0.07 pointing up now.. If $USd turns positive, It will hurt Stocks, OIL, and Metals.. EUR/USD +29p , USD/JPY +0.36, GBP/USD +4p.",0.0,0.0,"{'neg': 0.185, 'neu': 0.815, 'pos': 0.0, 'compound': -0.5267}","{'neg': 0.185, 'neu': 0.815, 'pos': 0.0, 'compound': -0.5267}"
+325,"@TheRossenori I have JPY, USD, HKD, CNY, GBP, EUR, IDR, VND, MYR, QAR, SGD, THB and BND.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+326,"Weird place this market...Nikkei up as #USD strengthens against #Yen so #Gold, #EUR, #GBP and #AUD go bid  - go figure",-0.5,1.0,"{'neg': 0.212, 'neu': 0.5, 'pos': 0.287, 'compound': 0.1531}","{'neg': 0.212, 'neu': 0.5, 'pos': 0.287, 'compound': 0.1531}"
+327,"aside from the USD/CAD, took all profits from yesterday morning on USD longs (EUR, GBP, CHF, NOK, SEK, NZD and AUD). USD/NOK closed at loss",-0.05,0.4,"{'neg': 0.108, 'neu': 0.755, 'pos': 0.137, 'compound': 0.1531}","{'neg': 0.108, 'neu': 0.755, 'pos': 0.137, 'compound': 0.1531}"
+328,"#ZAR strengthening, under 10 to the USD and 13 to the EUR big move, no reason.",0.0,0.1,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}","{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}"
+329,"USD/CHF is bullish. Now, 0.9460. And I expect 0.95 and above in the coming sessions. On the contrary, I expect EUR/USD to trade below 1.30.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+330,Flash: What does the EUR/USD have to offer? – Commerzbank and UBS,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+331,"#EUR/USD now at 1.3040, expect Sell Orders around 1.3050 and above here there is a bunch of DMA's between 1.3070 and 1.3090.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+332,"... high 1.3083 and round number 1.31. Eco EUR EU Eco Summit, 03:55 German Unemployment, USD 8:30 Unemployment, 10 am Home Sales.",-0.013333333333333336,0.3133333333333333,"{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.0772}","{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.0772}"
+333,"#USD declined versus the #GBP, #EUR and #AUD overnight.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+334,"EUR/USD KEY CLOSE BLW 100, 200 AND 55 DMAS, DAILY ICHIMOKU CLOUD 1.2966-91 OFFERS NRST SUPPRT, SELLERS RGRP INTO 1.3060-80, 1.3095 STOPS",0.0,1.0,"{'neg': 0.109, 'neu': 0.891, 'pos': 0.0, 'compound': -0.296}","{'neg': 0.109, 'neu': 0.891, 'pos': 0.0, 'compound': -0.296}"
+335,Rupee holds steady below 60.50; inability to extend recovery into 60 is a worry; now watch EUR/USD at 1.2985-1.3000 and USD/INR at 60.76!,0.0,0.0,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.1779}","{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.1779}"
+336,EUR/USD next level of support at 1.2935 and then possibly to 1.28.,0.0,0.0,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}"
+337,@IlyaSpivak @cato9lives I'd expect a big USD move in the EUR/USD cross and yen carry unwind as funds flow to treasuries.,0.0,0.05,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+338,"EUR/JPY,USD/JPY&amp;GBP/JPY...100MA's are to be observed as the break gonna come from them and not as usual from the 200 ones....",-0.25,0.25,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+339,"For this Friday prepare to see trends running faster and away from 200MA's(4h chart) ...this stands for USD/JPY,EUR/JPY&amp;GBP/JPY..",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+340,EUR/USD did quick entry below 1.30 (low at 1.2983) and recovered into 1.30-1.3050; tone weak; watch 1.2850/1.2900-1.3050/1.3100 now,-0.013888888888888895,0.47500000000000003,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6124}","{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6124}"
+341,Siwon's shirt in Audi / MetGala (?) was around 300 Eur / 390 USD / 3.9 million IDR. And I thought it was already pricey =_=,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+342,"@ZaheerAnwari Technical intra day mostly on AUD, EUR and JPY vs USD, but I've moving towards holding Tops/Bottoms over days now too. You?",0.5,0.5,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+343,"Trading the London and USD session is a bitch, from 3a.m.-11 a.m., with a nap inbetween but have to, monitoring Eur/USD Short, Strong Dollar",0.21666666666666665,0.5166666666666666,"{'neg': 0.21, 'neu': 0.608, 'pos': 0.182, 'compound': -0.128}","{'neg': 0.21, 'neu': 0.608, 'pos': 0.182, 'compound': -0.128}"
+344,EUR/USD and GBP/USD move to session lows as the USD-index tests the 83.00 level to the upside,0.0,0.3,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}"
+345,Round number trading eur/usd and gbp/usd has been sooooo good this month. They act like magnets. Very high probability.,0.21999999999999997,0.5133333333333333,"{'neg': 0.0, 'neu': 0.599, 'pos': 0.401, 'compound': 0.6908}","{'neg': 0.0, 'neu': 0.599, 'pos': 0.401, 'compound': 0.6908}"
+346,"Which means after underparticipating, EUR and GBP may cry havok and let slip the dogs of war should the USD continue higher strongly",0.1236111111111111,0.6402777777777778,"{'neg': 0.193, 'neu': 0.644, 'pos': 0.163, 'compound': -0.1531}","{'neg': 0.193, 'neu': 0.644, 'pos': 0.163, 'compound': -0.1531}"
+347,GBP/USD is turning a bit heavy and EUR/USD has given up all gains since the GDP print.,0.0,0.0,"{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.5267}","{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.5267}"
+348,IMHO there are similarities between february and today.The EUR rally prior to USD strength and comm dolls outperformnce retlative to EUR&amp;GBP,0.0,0.2,"{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.4939}","{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.4939}"
+349,"The EUR/USD was consolidating this week between 1.3057 and 1.3150.
+#Options #BinaryOptions #OptionsXO #Economy #EUR/USD",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+350,Chinese money-market rates fall for a fourth day. U.S. and European stocks move higher. EUR/USD falls to a 3-week low. #Soybeans down 0.2%,0.0625,0.2,"{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.2732}","{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.2732}"
+351,"~~&gt; EUR/USD - I came, saw and kicked-A$$ *EUR recovering some ealier  losses against USD after a disappointing USD GDP QoQ data*",0.0,0.0,"{'neg': 0.294, 'neu': 0.706, 'pos': 0.0, 'compound': -0.6124}","{'neg': 0.294, 'neu': 0.706, 'pos': 0.0, 'compound': -0.6124}"
+352,@piptrain lol..PERFECT..Sold eur aud chf and cad..against USD,0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+353,"USD shows a bit or bite, coming back against both EUR and GBP. EUR &amp; USD economic data to litter remainder of the week.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+354,"USD shows a bit or bite, coming back against both EUR and GBP. EUR &amp; USD economic data to litter remainder of the week.",0.0,0.0,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+355,"EUR/USD weakness on track for 1.2998 and 1.2955 . A recovery above 1.3108 would be required to lift the tone , opening 1.3130 and 1.3151",-0.1875,0.5625,"{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}","{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}"
+356,"@Ladyskybird08 They are 400 SEK/60 USD/46 EUR + shipping fee! And yes, they're available for 3G/3GS :)",0.0,0.0,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}"
+357,"USD builds steam to take EUR below 1.3050 (may not be easy but when it happens, may be swift); watch 1.3050 and 59.90 closely!",0.0,0.0,"{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.2023}","{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.2023}"
